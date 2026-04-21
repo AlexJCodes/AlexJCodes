@@ -48,6 +48,8 @@ Understand the user → solve a problem → deliver a great experience.
 <b>LIA spring 2027</b> 🚀 <br>
 Where I can grow as a frontend developer and contribute from day one
 
+## ⚡ Fun fact about Alex
+
 ```ts
 // I’ve led sales teams…
 → now I console.log my way through bugs
