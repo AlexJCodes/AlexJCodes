@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Alex
 
-Frontend Developer Student based in Sweden 🇸🇪
+Frontend Developer Student based in Sweden
 
 ```ts
 const alexander = {
