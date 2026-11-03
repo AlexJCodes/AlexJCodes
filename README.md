@@ -33,9 +33,6 @@ Understand the user → solve a problem → deliver a great experience.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-```ts
-["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "Git", "Figma"]
-```
 
 ## 🚀 Currently leveling up
 
